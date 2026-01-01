@@ -1,0 +1,8 @@
+<?php
+include 'db/db_connect.php';
+
+$result = $db->query('SHOW TABLES');
+while($row = $result->fetch_array()) {
+    echo $row[0] . PHP_EOL;
+}
+?>
