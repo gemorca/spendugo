@@ -205,7 +205,7 @@ Proyek ini dikerjakan oleh mahasiswa **Teknik Informatika, Universitas Negeri Go
 
 Hak Cipta © 2025 **Tim Pengembang** sebagaimana tercantum di atas. Seluruh hak dilindungi (*All Rights Reserved*).
 
-Kode sumber, desain, dan konten dalam repositori ini dibuat dan dimiliki oleh tim pengembang. Dilarang menyalin, memodifikasi, mendistribusikan, atau menggunakan ulang sebagian maupun seluruh isi proyek ini untuk tujuan apa pun tanpa izin tertulis dari pemilik. Logo institusi dan mitra di folder `logo/` adalah milik pihak masing-masing.
+Kode sumber, desain, dan konten dalam repositori ini dibuat dan dimiliki oleh tim pengembang. Anda bebas memakai, mengubah, dan membagikannya dengan tetap mencantumkan pemberitahuan hak cipta di atas. Logo institusi dan mitra di folder `logo/` adalah milik pihak masing-masing.
 
 ---
 
