@@ -110,10 +110,10 @@ Proyek ini dikembangkan sebagai bagian dari **Praktik Industri** mahasiswa Tekni
 
 ### Langkah-langkah
 
-1. **Letakkan proyek** di folder server, misalnya `htdocs/` pada XAMPP.
+1. **Letakkan proyek** di folder server, misalnya `htdocs/` pada XAMPP. note: jika memakai laragon pindahkan pada `www`
 
    ```bash
-   git clone https://github.com/gemorca/<nama-repo>.git
+   git clone https://github.com/gemorca/spendugo.git
    ```
 
 2. **Buat database** bernama `praktek_industri`, lalu buat tabel `users`.
